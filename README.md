@@ -111,4 +111,5 @@ Follow the [Deployment documentation](https://authjs.dev/getting-started/deploym
 
 ISC
 
-##just for push -u
+## just for push -u
+## just for preview domain on vercel
